@@ -1,0 +1,21 @@
+.nav{
+    /*background-color: red;*/
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    
+}
+.logo{
+    border-style: outset;
+}
+.busqueda{
+    border-style: outset;
+}
+.inicio{
+    border-style: outset;
+}
+.a img{
+    width: 70%;
+    height: 70%;
+}

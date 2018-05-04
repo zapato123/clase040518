@@ -1,0 +1,28 @@
+.foto img{
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+ 
+
+}
+.datos{
+    background-color: aqua;
+    height: 100%;
+
+}
+.contacto{
+    background-color:green;
+    height: 100%;
+
+}
+.foto{
+    background-color: aqua;
+    height: 100%;
+}
+.info{
+    background-color: aqua;
+    height: 100%;
+}
+.alto{
+    height: 500px;
+}
